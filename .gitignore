@@ -16,3 +16,4 @@ uploads/
 *.csv
 *.xlsx
 packages/
+.vercel
